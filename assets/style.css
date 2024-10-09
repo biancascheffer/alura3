@@ -2,7 +2,20 @@ body {
     background-color: bisque;
     font-family: Bai Jamjuree;
 }
-footer {
+footer 
+/* código omitido */
+
+#container {
+    display: flex;
+}
+
+.cartao {
+    margin: 1rem 1rem;
+}
+
+/* código omitido */
+    display: flex;
+{
     background-color: black;
     color: white;
     position: fixed;
